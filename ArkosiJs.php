@@ -10,6 +10,6 @@
 add_action('wp_footer', function(){?>
 
     <script>
-       alert('Hola');
+       alert('Hello, Please add some Js code on the script tag, use your editor of preference :)');
     </script>
     <?php }  ,9999); ?>
